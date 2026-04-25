@@ -1,3 +1,5 @@
+# ⭐ If you find this useful, feel free to star the repo
+
 # Trichology Terms
 
 A glossary dataset of trichological, dermatological, cosmetic science, hair transplantation, nutrition, genetics, and research terms.
