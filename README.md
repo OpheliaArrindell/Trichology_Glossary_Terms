@@ -31,7 +31,6 @@ print(list_categories())
 - `term`
 - `definition`
 - `category`
-- `source`
 
 ## Install directly from GitHub
 
