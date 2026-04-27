@@ -1,14 +1,15 @@
 [build-system]
-requires = ["setuptools>=68", "wheel"]
+requires = ["setuptools==75.8.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "trichology-terms"
-version = "0.1.0"
+version = "0.1.1"
 description = "A small data package for trichology terms and definitions."
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = ["pandas>=1.5"]
+license = { text = "MIT" }
 
 [tool.setuptools.package-data]
 trichology_terms = ["data/*.csv", "data/*.json"]

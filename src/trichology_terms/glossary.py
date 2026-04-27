@@ -1,7 +1,9 @@
-from importlib.resources import files
 import pandas as pd
+from pathlib import Path
 
-DATA_FILE = files("trichology_terms").joinpath("data/trichology_terms.csv")
+ROOT_DIR = Path(__file__).resolve().parents[2]
+DATA_FILE = ROOT_DIR / "data" / "trichology_terms.csv"
+
 
 def load_terms() -> pd.DataFrame:
     """Load the trichology glossary as a pandas DataFrame."""

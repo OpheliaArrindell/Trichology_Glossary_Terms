@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/trichology_terms/__init__.py
+src/trichology_terms/glossary.py
+src/trichology_terms.egg-info/PKG-INFO
+src/trichology_terms.egg-info/SOURCES.txt
+src/trichology_terms.egg-info/dependency_links.txt
+src/trichology_terms.egg-info/requires.txt
+src/trichology_terms.egg-info/top_level.txt
