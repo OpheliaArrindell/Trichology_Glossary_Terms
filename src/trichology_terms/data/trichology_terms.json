@@ -1,0 +1,2886 @@
+[
+  {
+    "term_id": "TRI0001",
+    "term": "Absorbent",
+    "definition": "able to soak up liquid easily; hair absorbs at varying degrees and therefore the assessment of hair porosity is important, especially before and throughout chemical processes, so that the correct product can be selected for use on a client.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0002",
+    "term": "Absorption",
+    "definition": "The process by which nutrients pass from the intestinal tract into the bloodstream and body cells.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0003",
+    "term": "Accelerator",
+    "definition": "a substance or device that speeds ups a chemical process or action.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0004",
+    "term": "Acetic acid",
+    "definition": "the organic acid present in vinegar, traditionally used as a hair rinse.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0005",
+    "term": "Acid",
+    "definition": "an aqueous water-based solution with a pH level of below 7.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0006",
+    "term": "Acid perms",
+    "definition": "these contain glycerol thioglycolate (pH approximately 4). Immediately before application an activator (alkaline) is mixed to base solution to enable the cuticle to lift. Heat is also used for this purpose.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0007",
+    "term": "Activator",
+    "definition": "An agent that induces activity.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0008",
+    "term": "Aem-/Haem-",
+    "definition": "Blood.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0009",
+    "term": "Albinism",
+    "definition": "the congenital absence of pigment in hair, skin and eyes of a person or animal.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0010",
+    "term": "algia",
+    "definition": "Pain.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0011",
+    "term": "Alkali",
+    "definition": "an aqueous solution having a pH greater than 7.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0012",
+    "term": "Alkali (base)",
+    "definition": "Substance with high pH.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0013",
+    "term": "Alkaline substance",
+    "definition": "A chemical with high pH used to open the cuticle and allow penetration into hair.",
+    "category": "Chemical & Hair Processing Terms",
+    
+  },
+  {
+    "term_id": "TRI0014",
+    "term": "Alleles",
+    "definition": "different forms of the same gene affecting the same trait in different ways.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0015",
+    "term": "Allelomorphs",
+    "definition": "genes occupying the same position on homologous chromosomes but influencing a trait differently.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0016",
+    "term": "Allergy",
+    "definition": "a reaction due to extreme sensitivity to certain substance, whether by ingestion or by contact, that induces irritation of the tissues, inflammation and/or other symptoms.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0017",
+    "term": "Alopecia",
+    "definition": "loss of hair. Derived from the Greek word ‘alopekia’ referring to hair loss (non-specific).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0018",
+    "term": "Alopecia areata",
+    "definition": "Autoimmune condition causing patchy hair loss.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0019",
+    "term": "Alpha-keratin",
+    "definition": "hair in a dry natural state: un-stretched.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0020",
+    "term": "Alternating current (AC)",
+    "definition": "Flow changes direction.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0021",
+    "term": "Amino acids",
+    "definition": "Basic units of protein; essential for growth, repair, and maintenance.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0022",
+    "term": "Ammonium carbonate",
+    "definition": "the active part of power bleach: causing rapid release of oxygen from peroxide.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0023",
+    "term": "Ammonium hydroxide",
+    "definition": "an aqueous solution of ammonia gas used in the manufacture of hair colour, bleach and relaxer preparations.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0024",
+    "term": "Ammonium thioglycolate",
+    "definition": "a salt which is an active ingredient of perm lotions.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0025",
+    "term": "Anaemia",
+    "definition": "A condition where there are too few red blood cells or insufficient haemoglobin.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0026",
+    "term": "Anagen",
+    "definition": "the active phase of the hair growth cycle.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0027",
+    "term": "Anagen effluvium",
+    "definition": "Hair loss during the growth phase, often due to toxins or chemotherapy.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0028",
+    "term": "Anagen phase",
+    "definition": "Active growth phase of hair.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0029",
+    "term": "Androgenetic alopecia",
+    "definition": "Pattern hair loss influenced by hormones.",
+    "category": "Clinical / Research Terms",
+    
+  },
+  {
+    "term_id": "TRI0030",
+    "term": "Anti-",
+    "definition": "Against.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0031",
+    "term": "Anti-dandruff treatment",
+    "definition": "a cream, lotion or shampoo incorporating active ingredients to control irritation and flaking of the scalp.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0032",
+    "term": "Anti-oxidant rinse",
+    "definition": "a rinse containing acid used to reduce oxidation damage following a chemical process.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0033",
+    "term": "Antioxidants",
+    "definition": "Substances that neutralise free radicals and prevent damage.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0034",
+    "term": "Apocrine gland",
+    "definition": "a duct that has both secretory and excretory functions mainly found associated with hair follicles.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0035",
+    "term": "Arrector pili muscle",
+    "definition": "an involuntary muscle that is attached to the hair follicle and the underlying surface of the epidermis.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0036",
+    "term": "Arthr-",
+    "definition": "Joints.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0037",
+    "term": "Asymmetrical",
+    "definition": "Not evenly balanced.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0038",
+    "term": "Atomic structure",
+    "definition": "Arrangement of protons, neutrons, and electrons in an atom.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0039",
+    "term": "Audit",
+    "definition": "Evaluates existing practice against standards.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0040",
+    "term": "Autoimmune disorders",
+    "definition": "Conditions where the immune system attacks the body’s own tissues.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0041",
+    "term": "Autosomes",
+    "definition": "chromosomes not involved in determining sex.",
+    "category": "Additional Terms",
+    
+  },
+  {
+    "term_id": "TRI0042",
+    "term": "Azo dyes",
+    "definition": "large molecule dye pigments that are not able to penetrate the cuticle scales so sitting on the surface of the hair shaft.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0043",
+    "term": "Back brushing",
+    "definition": "a method of applying volume to the surface of the hair by using a fine brush along the mid-lengths and ends to create softer mass of volume to the hair, than backcombing.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0044",
+    "term": "Backcombing",
+    "definition": "a method of applying volume to the roots of the hair mass when sections are taken and combed from mid-lengths towards the roots of the hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0045",
+    "term": "Backwash",
+    "definition": "a style of basin allowing the client/patient to lean back for the hair service.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0046",
+    "term": "Barber’s itch",
+    "definition": "Beard follicle infection.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0047",
+    "term": "Barber’s itch (sycosis barbae)",
+    "definition": "an infection of the hair follicle of the beard caused by staphylococci.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0048",
+    "term": "Barrier cream",
+    "definition": "aqueous cream used to protect the skin during chemical procedures.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0049",
+    "term": "Base shades",
+    "definition": "the term used referring to the natural hair colour of a person.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0050",
+    "term": "Beta-keratin",
+    "definition": "hair in its stretched state.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0051",
+    "term": "Bioavailability",
+    "definition": "The amount of a nutrient that is absorbed and available for use by the body.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0052",
+    "term": "Biological value (of protein)",
+    "definition": "Measure of how well a protein meets the body’s nutritional needs based on amino acid content and absorption.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0053",
+    "term": "Bleach toner",
+    "definition": "a colour that is applied to the hair after the hair has been bleached to neutralise any unwanted tones.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0054",
+    "term": "Blepharitis",
+    "definition": "Eyelash follicle infection.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0055",
+    "term": "Blepharitis (styes)",
+    "definition": "inflammation caused by bacteria invading the hair follicle of the eye lashes causing reddening and swelling.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0056",
+    "term": "Blow-drying",
+    "definition": "a method of styling hair and drying the hair using a brush and hair dryer.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0057",
+    "term": "Booster",
+    "definition": "a chemical additive (see activator).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0058",
+    "term": "Bromidrosis",
+    "definition": "Body odour due to sweating.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0059",
+    "term": "Bubble hair",
+    "definition": "caused by application of heat to wet hair where water inside the cortex boils and forms bubbles in the hair shaft.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0060",
+    "term": "Carbohydrates",
+    "definition": "Compounds made of carbon, hydrogen, and oxygen that provide energy; composed of monosaccharides.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0061",
+    "term": "Card-",
+    "definition": "Heart.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0062",
+    "term": "Case-Control Studies",
+    "definition": "Compare groups with and without a condition.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0063",
+    "term": "Catagen",
+    "definition": "Transition.",
+    "category": "PART F: Hair Growth Cycle",
+    
+  },
+  {
+    "term_id": "TRI0064",
+    "term": "Catagen phase",
+    "definition": "Transitional phase where growth stops.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0065",
+    "term": "Catalyst",
+    "definition": "a substance which alters the rate of a chemical reaction and remains unchanged at the end.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0066",
+    "term": "Cell",
+    "definition": "Basic unit of life.",
+    "category": "Biology: Cells → Systems",
+    
+  },
+  {
+    "term_id": "TRI0067",
+    "term": "Cell cycle",
+    "definition": "the repeated process of growth, DNA replication and division producing identical cells.",
+    "category": "Cell Cycle Terms",
+    
+  },
+  {
+    "term_id": "TRI0068",
+    "term": "Cell division",
+    "definition": "Process of cells reproducing.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0069",
+    "term": "Cell membrane",
+    "definition": "gives the cell structure and controls what enters or leaves.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0070",
+    "term": "Cholesterol",
+    "definition": "Fat-like substance involved in hormone production and vitamin D synthesis.",
+    "category": "Other Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0071",
+    "term": "Chromosomes",
+    "definition": "fine threads along which genes are arranged that carry inherited genetic information directing cell activity and body function.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0072",
+    "term": "Cicatricial alopecia",
+    "definition": "Permanent hair loss due to follicle destruction (scarring).",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0073",
+    "term": "Circulatory system",
+    "definition": "Supplies nutrients.",
+    "category": "Skin Support Systems",
+    
+  },
+  {
+    "term_id": "TRI0074",
+    "term": "Clinical Approach",
+    "definition": "Using structured observation + medical-style reasoning to diagnose.",
+    "category": "PART A: Core Framework",
+    
+  },
+  {
+    "term_id": "TRI0075",
+    "term": "Clinical scope",
+    "definition": "The range of conditions a trichologist can diagnose and/or treat.",
+    "category": "⚖️ Professional & Ethical Terms",
+    
+  },
+  {
+    "term_id": "TRI0076",
+    "term": "Clinical Trichology",
+    "definition": "A specialised branch focusing on diagnosing and managing scalp and hair disorders using medical-style approaches.",
+    "category": "Core Trichology Concepts",
+    
+  },
+  {
+    "term_id": "TRI0077",
+    "term": "Club cutting",
+    "definition": "a method of cutting the hair with scissors that creates a blunt cut.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0078",
+    "term": "Coeliac disease",
+    "definition": "Digestive disorder involving intolerance to gluten.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0079",
+    "term": "Cohort Studies",
+    "definition": "Follow groups over time.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0080",
+    "term": "Cold sore",
+    "definition": "Viral sores around mouth.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0081",
+    "term": "Cold sore (Herpes simplex)",
+    "definition": "sores caused by virus around the mouth area.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0082",
+    "term": "Colloid",
+    "definition": "Intermediate mixture (e.g. creams).",
+    "category": "Types of Mixtures (Important for products)",
+    
+  },
+  {
+    "term_id": "TRI0083",
+    "term": "Colour reducers",
+    "definition": "used to remove artificial colour pigments from the hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0084",
+    "term": "Compound",
+    "definition": "Two or more elements chemically bonded.",
+    "category": "Matter Types",
+    
+  },
+  {
+    "term_id": "TRI0085",
+    "term": "Compound henna",
+    "definition": "an inorganic dye made from henna and a metallic dye.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0086",
+    "term": "Compounds",
+    "definition": "pure substances comprising two or more elements.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0087",
+    "term": "Condition",
+    "definition": "the state of the hair (e.g. normal, greasy, dry).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0088",
+    "term": "Conditioner",
+    "definition": "products designed to leave the hair in good condition.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0089",
+    "term": "Contagious",
+    "definition": "Disease spread by contact or airborne transmission.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0090",
+    "term": "Contra-",
+    "definition": "Opposite / against.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0091",
+    "term": "Contra-indication",
+    "definition": "signs against a service being carried out.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0092",
+    "term": "Cornified layer",
+    "definition": "protective outermost layer of the skin.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0093",
+    "term": "Correlational Research",
+    "definition": "Examines relationships between variables.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0094",
+    "term": "Cortex",
+    "definition": "The main structural component of hair responsible for strength and elasticity.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0095",
+    "term": "Critical Thinking",
+    "definition": "The ability to analyse, evaluate, and interpret information objectively.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0096",
+    "term": "Crohn’s disease",
+    "definition": "Chronic inflammatory bowel disease affecting nutrient absorption.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0097",
+    "term": "Cross linkages",
+    "definition": "hold the polypeptide chains in place in the hair cortex.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0098",
+    "term": "Current electricity",
+    "definition": "Flow of electric charge.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0099",
+    "term": "Cuticle",
+    "definition": "the outermost layer of the hair; appears like scales under a microscope.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0100",
+    "term": "Cytoplasm",
+    "definition": "where metabolic functions occur; contains everything except the nucleus.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0101",
+    "term": "Dandruff",
+    "definition": "Scalp flaking.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0102",
+    "term": "Data Collection",
+    "definition": "Process of gathering information.",
+    "category": "Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0103",
+    "term": "Decomposition",
+    "definition": "Chemical breakdown.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0104",
+    "term": "Depilatory",
+    "definition": "Chemical hair remover.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0105",
+    "term": "Depth and tone",
+    "definition": "Lightness/darkness and colour tone.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0106",
+    "term": "Derm-",
+    "definition": "Skin.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0107",
+    "term": "Dermal papilla",
+    "definition": "Nourishes hair growth.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0108",
+    "term": "Dermatitis",
+    "definition": "Inflamed skin condition.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0109",
+    "term": "Dermatoscope",
+    "definition": "Device used to examine scalp/hair structures under magnification.",
+    "category": "⚡ Technology & Treatment Modalities",
+    
+  },
+  {
+    "term_id": "TRI0110",
+    "term": "Dermis",
+    "definition": "Inner skin layer.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0111",
+    "term": "Descriptive Studies",
+    "definition": "Describe characteristics of a population.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0112",
+    "term": "Diagnosis (in Trichology)",
+    "definition": "A systematic process of elimination used to identify a condition by ruling out alternatives.",
+    "category": "Core Trichology Concepts",
+    
+  },
+  {
+    "term_id": "TRI0113",
+    "term": "Diagnostics",
+    "definition": "Analysis of hair/scalp.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0114",
+    "term": "Differentiation",
+    "definition": "Cells becoming specialised.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0115",
+    "term": "Diffuse alopecia",
+    "definition": "Generalised thinning across the scalp.",
+    "category": "Clinical / Research Terms",
+    
+  },
+  {
+    "term_id": "TRI0116",
+    "term": "Dilate",
+    "definition": "Widen blood vessels.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0117",
+    "term": "Diploid",
+    "definition": "cells containing a full complement of chromosomes (pairs).",
+    "category": "Reproduction & Genetics Terms",
+    
+  },
+  {
+    "term_id": "TRI0118",
+    "term": "Direct current (DC)",
+    "definition": "One-directional flow.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0119",
+    "term": "Disinfectant",
+    "definition": "Chemical that kills microorganisms.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0120",
+    "term": "Distilled water",
+    "definition": "Purified water.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0121",
+    "term": "Disulphide bonds",
+    "definition": "Strong chemical bonds that give hair its structure and strength.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0122",
+    "term": "DNA (deoxyribonucleic acid)",
+    "definition": "a long molecule forming chromosomes, made up of bases Adenine (A), Cytosine (C), Thymine (T) and Guanine (G).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0123",
+    "term": "Dominant gene",
+    "definition": "a gene that expresses its effect even when only one copy is present.",
+    "category": "Dominance & Expression",
+    
+  },
+  {
+    "term_id": "TRI0124",
+    "term": "Donor area",
+    "definition": "Region of the scalp with stable hair used for transplantation.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0125",
+    "term": "Droplet infections",
+    "definition": "Spread via air particles.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0126",
+    "term": "Drug resistance",
+    "definition": "Reduced effectiveness of medication due to adaptation.",
+    "category": "Treatment & Pharmacology Terms",
+    
+  },
+  {
+    "term_id": "TRI0127",
+    "term": "ectomy",
+    "definition": "Surgical removal.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0128",
+    "term": "Eczema",
+    "definition": "Skin condition (genetic/contact).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0129",
+    "term": "Effleurage",
+    "definition": "Gentle massage technique.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0130",
+    "term": "Elasticity",
+    "definition": "The ability of hair to stretch and return to its original shape.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0131",
+    "term": "Electrode",
+    "definition": "Tool for high-frequency machines.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0132",
+    "term": "Electromagnetic radiation",
+    "definition": "Energy travelling as waves.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0133",
+    "term": "Electronic configuration",
+    "definition": "Arrangement of electrons determining reactivity.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0134",
+    "term": "Electrotherapy",
+    "definition": "use of electrical energy (HF, infrared, UV, lasers).",
+    "category": "PART A: What This Module Actually Is",
+    
+  },
+  {
+    "term_id": "TRI0135",
+    "term": "Element",
+    "definition": "A pure substance consisting of one type of atom.",
+    "category": "Matter Types",
+    
+  },
+  {
+    "term_id": "TRI0136",
+    "term": "Ellipsoid hair shape",
+    "definition": "Oval-shaped hair shaft typical of afro-textured hair.",
+    "category": "Hair & Structural Characteristics",
+    
+  },
+  {
+    "term_id": "TRI0137",
+    "term": "Elliptical excision (Strip method)",
+    "definition": "A technique where a strip of scalp is removed, then dissected into follicular units; leaves a linear scar.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0138",
+    "term": "Emulsion",
+    "definition": "Mixture of two immiscible liquids (e.g. oil + water).",
+    "category": "Types of Mixtures (Important for products)",
+    
+  },
+  {
+    "term_id": "TRI0139",
+    "term": "Emulsions",
+    "definition": "Liquids suspended in another liquid.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0140",
+    "term": "Epi-",
+    "definition": "Upon / outer layer.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0141",
+    "term": "Epidermis",
+    "definition": "Outer skin layer.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0142",
+    "term": "Epistasis",
+    "definition": "interaction where one gene masks the effect of another gene at a different locus.",
+    "category": "Mutation & Advanced Terms",
+    
+  },
+  {
+    "term_id": "TRI0143",
+    "term": "Erythrocyte sedimentation rate (ESR)",
+    "definition": "Blood test measuring inflammation in the body.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0144",
+    "term": "Erythrocytes",
+    "definition": "Red blood cells.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0145",
+    "term": "Essential amino acids",
+    "definition": "Amino acids that must be obtained from the diet.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0146",
+    "term": "Ethical practice (Trichology)",
+    "definition": "Conduct based on patient confidentiality, informed consent, and professional responsibility.",
+    "category": "⚖️ Professional & Ethical Terms",
+    
+  },
+  {
+    "term_id": "TRI0147",
+    "term": "Eukaryotes",
+    "definition": "cells with genetic material contained within a nucleus.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0148",
+    "term": "Eumelanin",
+    "definition": "Black/brown pigment.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0149",
+    "term": "Evaporation",
+    "definition": "Liquid to gas conversion.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0150",
+    "term": "Evidence-Based Practice (EBP)",
+    "definition": "Using the best available research evidence to inform decisions.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0151",
+    "term": "Excoriation",
+    "definition": "Skin damage caused by scratching.",
+    "category": "⚠️ Secondary Lesions",
+    
+  },
+  {
+    "term_id": "TRI0152",
+    "term": "Exogen",
+    "definition": "Hair shedding phase.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0153",
+    "term": "Expert witness",
+    "definition": "A trichologist who provides professional opinions in legal cases.",
+    "category": "⚖️ Professional & Ethical Terms",
+    
+  },
+  {
+    "term_id": "TRI0154",
+    "term": "Expressivity",
+    "definition": "the degree to which a trait is expressed in an individual.",
+    "category": "Mutation & Advanced Terms",
+    
+  },
+  {
+    "term_id": "TRI0155",
+    "term": "Fat-soluble vitamins",
+    "definition": "Vitamins stored in the body and absorbed with fat (A, D, E, K).",
+    "category": "Vitamins",
+    
+  },
+  {
+    "term_id": "TRI0156",
+    "term": "Fats (Lipids)",
+    "definition": "Energy-dense nutrients involved in hormone production and vitamin transport.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0157",
+    "term": "Ferritin",
+    "definition": "Protein that stores iron in the body.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0158",
+    "term": "Fibre",
+    "definition": "Indigestible polysaccharide important for digestive health.",
+    "category": "Other Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0159",
+    "term": "Fibrils",
+    "definition": "Fibres in hair cortex.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0160",
+    "term": "Fish hooks ends",
+    "definition": "Perm damage causing frizzy ends.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0161",
+    "term": "Flammable",
+    "definition": "Easily burns.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0162",
+    "term": "Flea",
+    "definition": "Blood-sucking parasite.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0163",
+    "term": "Fluoresce",
+    "definition": "Glow under light.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0164",
+    "term": "Follicular family",
+    "definition": "Two follicular units that are closely associated and transplanted together as one graft.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0165",
+    "term": "Follicular unit (FU)",
+    "definition": "A natural grouping of 1–5 hairs with associated sebaceous glands, bound together within the skin.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0166",
+    "term": "Follicular Unit Excision (FUE)",
+    "definition": "A harvesting technique where individual follicular units are removed using a small punch, leaving tiny circular scars.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0167",
+    "term": "Folliculitis",
+    "definition": "Inflamed hair follicle.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0168",
+    "term": "Fragilitas crinium",
+    "definition": "Split ends.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0169",
+    "term": "Free radicals",
+    "definition": "Highly reactive molecules that can damage cells and DNA.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0170",
+    "term": "Fungi",
+    "definition": "Fungal infection (ringworm).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0171",
+    "term": "Gametes",
+    "definition": "sex cells (ova and spermatozoa) involved in sexual reproduction.",
+    "category": "Reproduction & Genetics Terms",
+    
+  },
+  {
+    "term_id": "TRI0172",
+    "term": "Gastr-",
+    "definition": "Stomach.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0173",
+    "term": "Gene",
+    "definition": "the heredity units that are inherited, or transmitted from one generation to the next; each gene is a blueprint for a characteristic or trait.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0174",
+    "term": "Genetics",
+    "definition": "the science of heredity and variation.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0175",
+    "term": "Genotype",
+    "definition": "the full complement of genes an individual possesses.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0176",
+    "term": "Germinative layer",
+    "definition": "Skin growth layer.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0177",
+    "term": "gram / -graph",
+    "definition": "Recording / measurement.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0178",
+    "term": "Green hair",
+    "definition": "Copper-related discolouration.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0179",
+    "term": "Haemoglobin",
+    "definition": "Iron-containing protein in red blood cells that carries oxygen.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0180",
+    "term": "Hair",
+    "definition": "A keratin-based structure produced by follicles",
+    "category": "PART C: The Hair",
+    
+  },
+  {
+    "term_id": "TRI0181",
+    "term": "Haploid",
+    "definition": "cells containing half the number of chromosomes.",
+    "category": "Reproduction & Genetics Terms",
+    
+  },
+  {
+    "term_id": "TRI0182",
+    "term": "Hard water",
+    "definition": "Mineral-rich water.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0183",
+    "term": "Heat",
+    "definition": "Energy from molecular vibration",
+    "category": "PART B: THE SCIENCE BEHIND TREATMENTS",
+    
+  },
+  {
+    "term_id": "TRI0184",
+    "term": "Henna",
+    "definition": "Plant-based dye.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0185",
+    "term": "Hepatitis B",
+    "definition": "Viral infection.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0186",
+    "term": "Heredity",
+    "definition": "the transmission of anatomical, physiological and mental characteristics from one generation to the next (excluding the transmission of culture).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0187",
+    "term": "Heterozygous",
+    "definition": "having two different alleles for a gene.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0188",
+    "term": "High-frequency",
+    "definition": "Electrical treatment device.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0189",
+    "term": "Hirsutism",
+    "definition": "Male-pattern hair growth in women due to androgen influence.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0190",
+    "term": "Homozygous",
+    "definition": "having two identical alleles for a gene.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0191",
+    "term": "Hormone",
+    "definition": "Chemical messenger produced by glands that regulate body functions.",
+    "category": "⚡ Metabolism & Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0192",
+    "term": "Humidity",
+    "definition": "Moisture in air.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0193",
+    "term": "Hydrogen bonds",
+    "definition": "Weak bonds that contribute to hair elasticity and are affected by moisture.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0194",
+    "term": "Hydrogen peroxide",
+    "definition": "Oxidising agent.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0195",
+    "term": "Hydrolysis",
+    "definition": "Chemical breakdown of bonds (e.g., disulphide bonds) using water during hair treatments.",
+    "category": "Chemical & Hair Processing Terms",
+    
+  },
+  {
+    "term_id": "TRI0196",
+    "term": "Hygiene",
+    "definition": "Practices reducing infection.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0197",
+    "term": "Hygroscopic",
+    "definition": "The property of hair that allows it to absorb moisture from the air.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0198",
+    "term": "Hyper-",
+    "definition": "Excessive.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0199",
+    "term": "Hyperaemia",
+    "definition": "Increased blood flow.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0200",
+    "term": "Hypertrichosis",
+    "definition": "Excessive hair growth inappropriate for age, sex, or location.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0201",
+    "term": "Hypo-",
+    "definition": "Below / deficiency.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0202",
+    "term": "Hypothesis",
+    "definition": "A testable prediction.",
+    "category": "Research Question",
+    
+  },
+  {
+    "term_id": "TRI0203",
+    "term": "ia / -ity",
+    "definition": "State or condition.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0204",
+    "term": "Impetigo",
+    "definition": "Bacterial skin infection.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0205",
+    "term": "Incompatibility test",
+    "definition": "Checks chemical history.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0206",
+    "term": "Incompatible",
+    "definition": "Cannot be combined.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0207",
+    "term": "Infection",
+    "definition": "Pathogen invasion.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0208",
+    "term": "Infectious",
+    "definition": "Spread by air/water.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0209",
+    "term": "Infestation",
+    "definition": "Parasite presence.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0210",
+    "term": "Infra-red",
+    "definition": "Heat radiation.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0211",
+    "term": "Infrared (IR)",
+    "definition": "Used in treatments (heat-based therapy).",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0212",
+    "term": "Inorganic dye",
+    "definition": "Metallic dye.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0213",
+    "term": "Instrumentation",
+    "definition": "Tools used to collect data.",
+    "category": "Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0214",
+    "term": "Insulin",
+    "definition": "Hormone that regulates blood glucose levels.",
+    "category": "⚡ Metabolism & Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0215",
+    "term": "Integument",
+    "definition": "The skin and its appendages (hair and nails).",
+    "category": "Skin",
+    
+  },
+  {
+    "term_id": "TRI0216",
+    "term": "Inter-",
+    "definition": "Between.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0217",
+    "term": "Interphase",
+    "definition": "the stages of growth and replication before cell division.",
+    "category": "Cell Cycle Terms",
+    
+  },
+  {
+    "term_id": "TRI0218",
+    "term": "Intra-",
+    "definition": "Within.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0219",
+    "term": "Ion exchange resin",
+    "definition": "Water softening method.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0220",
+    "term": "Isotopes",
+    "definition": "Atoms of same element with different mass.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0221",
+    "term": "Itch mite",
+    "definition": "Causes scabies.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0222",
+    "term": "itis",
+    "definition": "Inflammation.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0223",
+    "term": "Karyotype",
+    "definition": "a display of all chromosomes arranged in pairs.",
+    "category": "Additional Terms",
+    
+  },
+  {
+    "term_id": "TRI0224",
+    "term": "Kenogen",
+    "definition": "Phase where follicle is empty after hair shedding.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0225",
+    "term": "Keratin",
+    "definition": "A fibrous protein that makes up hair, composed of amino acids linked by peptide bonds.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0226",
+    "term": "Keratinisation",
+    "definition": "Process of cells filling with keratin.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0227",
+    "term": "Key idea: Hair",
+    "definition": "output of internal health.",
+    "category": "PART A: Core Framework",
+    
+  },
+  {
+    "term_id": "TRI0228",
+    "term": "Kwashiorkor",
+    "definition": "Protein deficiency disorder despite adequate calorie intake.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0229",
+    "term": "Lanugo hair",
+    "definition": "Soft, unpigmented hair found on a foetus.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0230",
+    "term": "Laser therapy (low-level laser)",
+    "definition": "Use of light energy to stimulate biological processes in hair follicles.",
+    "category": "⚡ Technology & Treatment Modalities",
+    
+  },
+  {
+    "term_id": "TRI0231",
+    "term": "Lead acetate",
+    "definition": "Dye ingredient.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0232",
+    "term": "Leuco-compounds",
+    "definition": "Colour remover by-products.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0233",
+    "term": "Lice",
+    "definition": "Parasitic insects causing infestation.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0234",
+    "term": "Life cycle",
+    "definition": "offspring are produced, grow to maturity, and then produce offspring repeatedly.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0235",
+    "term": "Lightening dyes",
+    "definition": "High-lift colour.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0236",
+    "term": "Literature Review",
+    "definition": "Critical summary of existing research.",
+    "category": "Research Proposal",
+    
+  },
+  {
+    "term_id": "TRI0237",
+    "term": "logy",
+    "definition": "Study of.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0238",
+    "term": "Lymphatic system",
+    "definition": "Immune defence.",
+    "category": "Skin Support Systems",
+    
+  },
+  {
+    "term_id": "TRI0239",
+    "term": "Macrofibrils",
+    "definition": "Largest cortex fibres.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0240",
+    "term": "Macrominerals",
+    "definition": "Minerals required in larger amounts.",
+    "category": "Minerals",
+    
+  },
+  {
+    "term_id": "TRI0241",
+    "term": "Macronutrients",
+    "definition": "Nutritional components required in large amounts (protein, carbohydrates, fats, macrominerals).",
+    "category": "Core Nutrition Terms",
+    
+  },
+  {
+    "term_id": "TRI0242",
+    "term": "Malabsorption",
+    "definition": "Failure to properly absorb nutrients from the digestive tract.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0243",
+    "term": "Manual therapy",
+    "definition": "scalp massage.",
+    "category": "PART A: What This Module Actually Is",
+    
+  },
+  {
+    "term_id": "TRI0244",
+    "term": "Marasmus",
+    "definition": "Severe calorie deficiency leading to wasting of body tissues.",
+    "category": "⚠️ Disease & Conditions",
+    
+  },
+  {
+    "term_id": "TRI0245",
+    "term": "Markers (Indicators)",
+    "definition": "Visible signs (hair, skin, nails) that reflect internal health conditions.",
+    "category": "PART A: Core Framework",
+    
+  },
+  {
+    "term_id": "TRI0246",
+    "term": "Matter",
+    "definition": "Anything with physical form.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0247",
+    "term": "Matting",
+    "definition": "Severely tangled hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0248",
+    "term": "Medulla",
+    "definition": "The central core of the hair, sometimes absent, with no clear modern function.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0249",
+    "term": "Meiosis",
+    "definition": "cell division producing cells with half the number of chromosomes for sexual reproduction.",
+    "category": "Reproduction & Genetics Terms",
+    
+  },
+  {
+    "term_id": "TRI0250",
+    "term": "Melanin",
+    "definition": "Natural pigment giving colour to hair and skin.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0251",
+    "term": "Melanocytes",
+    "definition": "Cells that produce pigment.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0252",
+    "term": "Membrane",
+    "definition": "Cell covering.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0253",
+    "term": "Meta-analysis",
+    "definition": "Statistical combination of studies.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0254",
+    "term": "Metabolism",
+    "definition": "the sum total of chemical reactions that produce substances needed for growth, maintenance and repair.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0255",
+    "term": "Micro-organisms",
+    "definition": "Tiny living organisms.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0256",
+    "term": "Microfibrils",
+    "definition": "Small fibre bundles.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0257",
+    "term": "Micromorphology",
+    "definition": "Study of hair structure at microscopic level",
+    "category": "PART G: Forensic & Scientific Relevance",
+    
+  },
+  {
+    "term_id": "TRI0258",
+    "term": "Micronutrients",
+    "definition": "Essential nutrients required in small amounts (vitamins and trace minerals).",
+    "category": "Core Nutrition Terms",
+    
+  },
+  {
+    "term_id": "TRI0259",
+    "term": "Micropigmentation (scalp tattooing)",
+    "definition": "Cosmetic technique to simulate hair density.",
+    "category": "‍♀️ Cosmetic & Camouflage Terms",
+    
+  },
+  {
+    "term_id": "TRI0260",
+    "term": "Minerals",
+    "definition": "Inorganic elements required for metabolic processes and body structure.",
+    "category": "Minerals",
+    
+  },
+  {
+    "term_id": "TRI0261",
+    "term": "Mitosis",
+    "definition": "the process where replicated chromosomes separate and form two identical cells.",
+    "category": "Cell Cycle Terms",
+    
+  },
+  {
+    "term_id": "TRI0262",
+    "term": "Mixture",
+    "definition": "Combination of substances not chemically bonded.",
+    "category": "Matter Types",
+    
+  },
+  {
+    "term_id": "TRI0263",
+    "term": "Moisture content",
+    "definition": "Water content in hair, essential for health.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0264",
+    "term": "Mutation",
+    "definition": "a sudden, random, relatively permanent chromosomal change.",
+    "category": "Mutation & Advanced Terms",
+    
+  },
+  {
+    "term_id": "TRI0265",
+    "term": "Nervous system",
+    "definition": "Sensation and response.",
+    "category": "Skin Support Systems",
+    
+  },
+  {
+    "term_id": "TRI0266",
+    "term": "Neur-",
+    "definition": "Nerves.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0267",
+    "term": "Neutralisation",
+    "definition": "Reaction between acid and base producing salt + water.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0268",
+    "term": "Nitro dyes",
+    "definition": "Semi-permanent dyes.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0269",
+    "term": "Nits",
+    "definition": "Lice eggs.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0270",
+    "term": "Non-essential amino acids",
+    "definition": "Amino acids that can be synthesised by the body.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0271",
+    "term": "Non-pathogenic",
+    "definition": "Non-disease-causing.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0272",
+    "term": "Nucleus",
+    "definition": "contains the cell’s genetic material inherited from parents.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0273",
+    "term": "Null Hypothesis (H₀)",
+    "definition": "Assumes no relationship or effect.",
+    "category": "Research Question",
+    
+  },
+  {
+    "term_id": "TRI0274",
+    "term": "Nutrients",
+    "definition": "Vital substances required by the body for survival.",
+    "category": "Core Nutrition Terms",
+    
+  },
+  {
+    "term_id": "TRI0275",
+    "term": "Nutrition",
+    "definition": "The study of food and nutrients and their effect on the body.",
+    "category": "Core Nutrition Terms",
+    
+  },
+  {
+    "term_id": "TRI0276",
+    "term": "Occlusive agents",
+    "definition": "Substances that suffocate parasites (e.g., lice).",
+    "category": "Treatment & Pharmacology Terms",
+    
+  },
+  {
+    "term_id": "TRI0277",
+    "term": "oma",
+    "definition": "Tumour.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0278",
+    "term": "Oral treatment",
+    "definition": "Medication taken by mouth for systemic effect.",
+    "category": "Treatment & Pharmacology Terms",
+    
+  },
+  {
+    "term_id": "TRI0279",
+    "term": "Organ",
+    "definition": "Structure made of tissues performing a function.",
+    "category": "Biology: Cells → Systems",
+    
+  },
+  {
+    "term_id": "TRI0280",
+    "term": "osis / -sis",
+    "definition": "Condition.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0281",
+    "term": "Oxidisation",
+    "definition": "Addition of oxygen or removal of hydrogen.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0282",
+    "term": "Oxidisation dye",
+    "definition": "Permanent colour process.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0283",
+    "term": "Oxidising agent",
+    "definition": "A substance (e.g., hydrogen peroxide) that releases oxygen to chemically alter hair colour.",
+    "category": "Chemical & Hair Processing Terms",
+    
+  },
+  {
+    "term_id": "TRI0284",
+    "term": "Para dye",
+    "definition": "Permanent synthetic dye requiring hydrogen peroxide.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0285",
+    "term": "Parasite",
+    "definition": "Organism living on/in another organism.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0286",
+    "term": "Pathogenic",
+    "definition": "Disease-causing.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0287",
+    "term": "Pediculicides",
+    "definition": "Topical treatments used to kill lice.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0288",
+    "term": "Pediculosis capitis",
+    "definition": "Infestation of the scalp by head lice.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0289",
+    "term": "Penetrance",
+    "definition": "the percentage of individuals with a gene combination who exhibit the trait.",
+    "category": "Mutation & Advanced Terms",
+    
+  },
+  {
+    "term_id": "TRI0290",
+    "term": "Percentage strength",
+    "definition": "Measurement of solution concentration.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0291",
+    "term": "Peri-",
+    "definition": "Around.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0292",
+    "term": "Perm activation",
+    "definition": "Heat activation of perm (exothermic or endothermic).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0293",
+    "term": "Permethrin",
+    "definition": "A synthetic pyrethroid used to treat lice infestations.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0294",
+    "term": "pH",
+    "definition": "Measure of acidity or alkalinity.",
+    "category": "Chemical Concepts Relevant to Hair",
+    
+  },
+  {
+    "term_id": "TRI0295",
+    "term": "pH scale",
+    "definition": "Scale from 1–14 measuring acidity/alkalinity.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0296",
+    "term": "Phene",
+    "definition": "any observable trait or characteristic.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0297",
+    "term": "Phenotype",
+    "definition": "the sum of observable traits or characteristics expressed in an organism.",
+    "category": "Genetic Terminology (Core Section)",
+    
+  },
+  {
+    "term_id": "TRI0298",
+    "term": "Pheomelanin",
+    "definition": "Red/yellow pigment in hair and skin.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0299",
+    "term": "Photobiomodulation therapy",
+    "definition": "Light-based therapy used to stimulate hair growth.",
+    "category": "⚡ Technology & Treatment Modalities",
+    
+  },
+  {
+    "term_id": "TRI0300",
+    "term": "Physical properties of hair",
+    "definition": "Elasticity, porosity, texture, moisture content.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0301",
+    "term": "Piedra",
+    "definition": "Fungal infection forming nodules on hair shafts.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0302",
+    "term": "Pityriasis",
+    "definition": "Technical term for dandruff.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0303",
+    "term": "Polymerisation",
+    "definition": "The process where small molecules join to form larger ones, creating permanent hair colour.",
+    "category": "Chemical & Hair Processing Terms",
+    
+  },
+  {
+    "term_id": "TRI0304",
+    "term": "Polypeptide chains",
+    "definition": "Long chains of amino acids forming the structural basis of keratin.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0305",
+    "term": "Porosity",
+    "definition": "The hair’s ability to absorb moisture or liquids.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0306",
+    "term": "Post-operative sequelae",
+    "definition": "Effects occurring after surgery.",
+    "category": "Clinical / Research Terms",
+    
+  },
+  {
+    "term_id": "TRI0307",
+    "term": "Pre-pigmentation",
+    "definition": "Replacing lost pigment before colouring.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0308",
+    "term": "Prefix",
+    "definition": "A word part placed before the root to modify meaning (e.g. hyper- = excessive).",
+    "category": "Medical Terminology Framework (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0309",
+    "term": "Prokaryotes",
+    "definition": "cells without a nucleus; genetic material is spread in the cytoplasm.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0310",
+    "term": "Protein",
+    "definition": "Complex compounds made of amino acids essential for growth, repair, and maintenance of body tissues.",
+    "category": "Macronutrients",
+    
+  },
+  {
+    "term_id": "TRI0311",
+    "term": "Psoriasis",
+    "definition": "Non-infectious skin condition with red, scaly patches.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0312",
+    "term": "Pull burns",
+    "definition": "Tight perming damage.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0313",
+    "term": "Pus",
+    "definition": "Fluid from infection containing dead cells and bacteria.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0314",
+    "term": "Pyrethroids",
+    "definition": "Insecticidal compounds derived from chrysanthemum, toxic to lice.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0315",
+    "term": "Quantitative Research",
+    "definition": "Uses numerical data to identify patterns, relationships, or trends.",
+    "category": "Quantitative Research (DATA SCIENCE ZONE)",
+    
+  },
+  {
+    "term_id": "TRI0316",
+    "term": "Quasi colour",
+    "definition": "Semi-permanent + permanent mix.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0317",
+    "term": "Radiation",
+    "definition": "Energy waves.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0318",
+    "term": "Randomised Controlled Trials (RCTs)",
+    "definition": "Gold standard experimental design.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0319",
+    "term": "Reasonable Practitioner",
+    "definition": "Someone whose actions align with accepted professional standards.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0320",
+    "term": "Recessive gene",
+    "definition": "a gene whose effect is masked by a dominant gene and only expressed when two copies are present.",
+    "category": "Dominance & Expression",
+    
+  },
+  {
+    "term_id": "TRI0321",
+    "term": "Recipient area",
+    "definition": "The area of alopecia (or expected future hair loss) that is treated during transplantation surgery.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0322",
+    "term": "Reflective Practitioner",
+    "definition": "A professional who continuously evaluates and improves their practice.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0323",
+    "term": "Regrowth",
+    "definition": "New hair growth.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0324",
+    "term": "Relaxer",
+    "definition": "Chemical process to reduce curl.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0325",
+    "term": "Reliability",
+    "definition": "Consistency of results.",
+    "category": "Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0326",
+    "term": "Renal-",
+    "definition": "Kidneys.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0327",
+    "term": "Reproduction",
+    "definition": "the process by which organisms produce offspring.",
+    "category": "Cell & Reproduction Terms",
+    
+  },
+  {
+    "term_id": "TRI0328",
+    "term": "Research",
+    "definition": "A systematic process used to generate new knowledge or validate existing knowledge.",
+    "category": "Core Concepts",
+    
+  },
+  {
+    "term_id": "TRI0329",
+    "term": "Research Question",
+    "definition": "A clear, focused question guiding the study",
+    "category": "Research Design & Structure",
+    
+  },
+  {
+    "term_id": "TRI0330",
+    "term": "Resistant hair",
+    "definition": "Hair difficult to penetrate.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0331",
+    "term": "Restructurant",
+    "definition": "Pre/post-treatment conditioner.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0332",
+    "term": "Root",
+    "definition": "The core meaning of a medical term (e.g. trich = hair, derm = skin).",
+    "category": "Medical Terminology Framework (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0333",
+    "term": "Safe donor area",
+    "definition": "The region of the donor scalp where hair is most permanent and suitable for harvesting.",
+    "category": "Hair Transplantation Terminology",
+    
+  },
+  {
+    "term_id": "TRI0334",
+    "term": "Salt bonds (linkages)",
+    "definition": "Bonds contributing to hair strength and affected by pH.",
+    "category": "Hair Biology & Structure",
+    
+  },
+  {
+    "term_id": "TRI0335",
+    "term": "scope",
+    "definition": "Instrument for viewing.",
+    "category": "➖ Common Suffixes (Conditions / Processes)",
+    
+  },
+  {
+    "term_id": "TRI0336",
+    "term": "Sebaceous gland",
+    "definition": "Produces sebum (natural oil).",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0337",
+    "term": "Sebaceous glands",
+    "definition": "Oil-producing glands that lubricate hair and scalp.",
+    "category": "Hair & Structural Characteristics",
+    
+  },
+  {
+    "term_id": "TRI0338",
+    "term": "Seborrhoea",
+    "definition": "Excess oil production.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0339",
+    "term": "Sebum",
+    "definition": "Natural oil produced by sebaceous glands.",
+    "category": "Hair & Structural Characteristics",
+    
+  },
+  {
+    "term_id": "TRI0340",
+    "term": "Secondary infection",
+    "definition": "Infection following an initial one.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0341",
+    "term": "Selenium sulphide",
+    "definition": "Anti-dandruff ingredient.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0342",
+    "term": "Semi-permanent colour",
+    "definition": "Temporary dye.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0343",
+    "term": "Sex chromosomes",
+    "definition": "chromosomes (X and Y) that determine sex.",
+    "category": "Additional Terms",
+    
+  },
+  {
+    "term_id": "TRI0344",
+    "term": "Shampoo",
+    "definition": "Cleaning solution for hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0345",
+    "term": "Skin",
+    "definition": "The largest organ of the body with protective, regulatory, and sensory functions.",
+    "category": "Skin",
+    
+  },
+  {
+    "term_id": "TRI0346",
+    "term": "Skin test",
+    "definition": "Test for allergic reaction.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0347",
+    "term": "Soap",
+    "definition": "Emulsifying agent removing oil/dirt.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0348",
+    "term": "Soft water",
+    "definition": "Mineral-free water.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0349",
+    "term": "Solution",
+    "definition": "Homogeneous mixture (fully dissolved).",
+    "category": "Types of Mixtures (Important for products)",
+    
+  },
+  {
+    "term_id": "TRI0350",
+    "term": "Static electricity",
+    "definition": "Build-up of electrical charge.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0351",
+    "term": "Static electricity (hair)",
+    "definition": "Electrical charge buildup causing hair strands to repel each other.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0352",
+    "term": "Sterilisation",
+    "definition": "Process killing microorganisms.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0353",
+    "term": "Sub-",
+    "definition": "Under.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0354",
+    "term": "Suffix",
+    "definition": "A word part placed after the root to define condition or process (e.g. -logy = study of).",
+    "category": "Medical Terminology Framework (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0355",
+    "term": "Sulphur bonds",
+    "definition": "Hair strength bonds.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0356",
+    "term": "Supplements",
+    "definition": "Manufactured forms of nutrients intended to support dietary intake.",
+    "category": "Other Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0357",
+    "term": "Suspension",
+    "definition": "Particles dispersed but not dissolved.",
+    "category": "Types of Mixtures (Important for products)",
+    
+  },
+  {
+    "term_id": "TRI0358",
+    "term": "Sweat Glands (Sudoriferous)",
+    "definition": "Regulate temperature",
+    "category": "Skin Components (IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0359",
+    "term": "Symptoms",
+    "definition": "Signs of disease.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0360",
+    "term": "Synthesis",
+    "definition": "Formation of complex compounds from simpler substances.",
+    "category": "⚡ Metabolism & Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0361",
+    "term": "System",
+    "definition": "Group of organs working together.",
+    "category": "Biology: Cells → Systems",
+    
+  },
+  {
+    "term_id": "TRI0362",
+    "term": "Systematic Review",
+    "definition": "Summary of multiple studies.",
+    "category": "Study Types (VERY IMPORTANT)",
+    
+  },
+  {
+    "term_id": "TRI0363",
+    "term": "Systemic Factors",
+    "definition": "Internal body influences (e.g. hormones, nutrition, disease) affecting hair/skin.",
+    "category": "PART A: Core Framework",
+    
+  },
+  {
+    "term_id": "TRI0364",
+    "term": "Telogen",
+    "definition": "Resting hair phase.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0365",
+    "term": "Telogen effluvium",
+    "definition": "Condition where many hairs enter the resting phase simultaneously, causing shedding.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0366",
+    "term": "Telogen phase",
+    "definition": "Resting phase before hair shedding.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0367",
+    "term": "Temporary colour",
+    "definition": "Wash-out colour.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0368",
+    "term": "Tensile strength",
+    "definition": "Resistance to breaking.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0369",
+    "term": "Terminal hair",
+    "definition": "Thick, pigmented hair found on the scalp and other areas.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0370",
+    "term": "Texture",
+    "definition": "Hair thickness.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0371",
+    "term": "Texture (hair)",
+    "definition": "The thickness and feel of hair, categorised as fine, medium, or coarse.",
+    "category": "⚙️ Physical Properties of Hair",
+    
+  },
+  {
+    "term_id": "TRI0372",
+    "term": "Thyroxine",
+    "definition": "Hormone produced by the thyroid gland involved in metabolism.",
+    "category": "⚡ Metabolism & Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0373",
+    "term": "Tinea capitis",
+    "definition": "Fungal infection of the scalp.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0374",
+    "term": "Tissue",
+    "definition": "Group of similar cells performing a function.",
+    "category": "Biology: Cells → Systems",
+    
+  },
+  {
+    "term_id": "TRI0375",
+    "term": "Toners",
+    "definition": "Colour correctors.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0376",
+    "term": "Topical treatment",
+    "definition": "Medication applied directly to the scalp/hair.",
+    "category": "Treatment & Pharmacology Terms",
+    
+  },
+  {
+    "term_id": "TRI0377",
+    "term": "Topical treatments",
+    "definition": "ointments, shampoos, lotions.",
+    "category": "PART A: What This Module Actually Is",
+    
+  },
+  {
+    "term_id": "TRI0378",
+    "term": "Toxins",
+    "definition": "Poisons.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0379",
+    "term": "Trace elements",
+    "definition": "Minerals required in small amounts (less than 15mg/day).",
+    "category": "Minerals",
+    
+  },
+  {
+    "term_id": "TRI0380",
+    "term": "Traction alopecia",
+    "definition": "Hair loss caused by prolonged tension on the hair.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0381",
+    "term": "Trans-",
+    "definition": "Across.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0382",
+    "term": "Transferrin",
+    "definition": "Protein that transports iron in the blood.",
+    "category": "Blood & Iron Terms",
+    
+  },
+  {
+    "term_id": "TRI0383",
+    "term": "Transparent",
+    "definition": "Allows light to pass through without scattering.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0384",
+    "term": "Trich-",
+    "definition": "Hair.",
+    "category": "Common Medical Roots (Core Vocabulary)",
+    
+  },
+  {
+    "term_id": "TRI0385",
+    "term": "Trichogram",
+    "definition": "A diagnostic method analysing hair roots to determine growth phases.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0386",
+    "term": "Trichology",
+    "definition": "The science concerned with all aspects of hair; clinically, it involves the diagnosis and treatment of hair and scalp disorders.",
+    "category": "Core Trichology Concepts",
+    
+  },
+  {
+    "term_id": "TRI0387",
+    "term": "Trichomycosis",
+    "definition": "Bacterial infection affecting hair shafts.",
+    "category": "Infections & Infestations (Clinical Terms)",
+    
+  },
+  {
+    "term_id": "TRI0388",
+    "term": "Trichoptilosis",
+    "definition": "longitudinal splitting of the hair shaft.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0389",
+    "term": "Trichorrhexis nodosa",
+    "definition": "condition where hair splits and frays with swelling along the length.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0390",
+    "term": "Triethanolamine lauryl sulphate",
+    "definition": "an organic salt which is a base surfactant of many shampoos, as it is mild on the hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0391",
+    "term": "Ultra violet radiation",
+    "definition": "part of electromagnetic spectrum not visible to the eye which triggers melanocytes producing a tan.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0392",
+    "term": "Ultraviolet (UV)",
+    "definition": "Can affect skin and scalp.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0393",
+    "term": "Unit area trichogram",
+    "definition": "A quantitative method measuring hair density and growth characteristics in a defined scalp area.",
+    "category": "Clinical Hair & Scalp Conditions",
+    
+  },
+  {
+    "term_id": "TRI0394",
+    "term": "Validity",
+    "definition": "Accuracy of measurement.",
+    "category": "Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0395",
+    "term": "Variable",
+    "definition": "A measurable factor that can change.",
+    "category": "Key Terms",
+    
+  },
+  {
+    "term_id": "TRI0396",
+    "term": "Vegetable dye",
+    "definition": "Plant-based dye.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0397",
+    "term": "Vellus hair",
+    "definition": "Fine, often unpigmented hair.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0398",
+    "term": "Virus",
+    "definition": "the smallest type of micro-organism causing disease.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0399",
+    "term": "Viscous",
+    "definition": "a gel-like consistency between a liquid and a solid.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0400",
+    "term": "Visible light",
+    "definition": "Light detectable by the human eye.",
+    "category": "Key Biological Processes",
+    
+  },
+  {
+    "term_id": "TRI0401",
+    "term": "Vitamin",
+    "definition": "Essential nutrient that the body cannot manufacture and must obtain from the diet.",
+    "category": "Vitamins",
+    
+  },
+  {
+    "term_id": "TRI0402",
+    "term": "Volatile",
+    "definition": "a liquid which evaporates quickly.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0403",
+    "term": "Volume strength",
+    "definition": "a way of expressing strength of hydrogen peroxide solutions.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0404",
+    "term": "Warts",
+    "definition": "Viral skin growths.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0405",
+    "term": "Warts (verrucae)",
+    "definition": "skin growths caused by a virus.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0406",
+    "term": "Water vapours",
+    "definition": "Gas form of water.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0407",
+    "term": "Water-soluble vitamins",
+    "definition": "Vitamins not stored in the body and excreted regularly (B group, C).",
+    "category": "Vitamins",
+    
+  },
+  {
+    "term_id": "TRI0408",
+    "term": "Wig (cranial prosthesis)",
+    "definition": "Full scalp covering used for hair loss.",
+    "category": "‍♀️ Cosmetic & Camouflage Terms",
+    
+  },
+  {
+    "term_id": "TRI0409",
+    "term": "Wood’s light",
+    "definition": "type of ultra-violet radiation used for diagnosis.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0410",
+    "term": "Yeast",
+    "definition": "Associated with dandruff.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0411",
+    "term": "Zinc pyrithione",
+    "definition": "substance found in anti-dandruff shampoos.",
+    "category": "A-Z Glossary",
+    
+  },
+  {
+    "term_id": "TRI0412",
+    "term": "Zygote",
+    "definition": "the first cell (fertilised egg) from which all other cells develop.",
+    "category": "Cell Cycle Terms",
+    
+  }
+]
