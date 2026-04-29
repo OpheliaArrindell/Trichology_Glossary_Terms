@@ -1,5 +1,3 @@
-# ⭐ If you find this useful, feel free to star the repo
-
 # Trichology Terms
 
 A glossary dataset of trichological terms.
@@ -19,9 +17,12 @@ from trichology_terms import load_terms, search_terms, get_definition, list_cate
 
 df = load_terms()
 print(df.head())
+print(" ---------------- ")
 
 print(get_definition("Alopecia"))
+print(" ---------------- ")
 print(search_terms("scalp"))
+print(" ---------------- ")
 print(list_categories())
 ```
 
