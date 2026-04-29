@@ -36,7 +36,7 @@ print(list_categories())
 ## Install directly from GitHub
 
 ```bash
-pip install git+https://github.com/YOUR-USERNAME/Trichology_Glossary_Terms.git
+pip install git+https://github.com/OpheliaArrindell/Trichology_Glossary_Terms.git
 
 
 # The glossary dataset is provided for educational and research use. Definitions are based on personal learning notes and should not be treated as clinical advice.
