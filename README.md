@@ -36,7 +36,7 @@ print(list_categories())
 ## Install
 
 ## From PyPI 
-pip install trichology-terms==0.1.5
+pip install trichology-terms==0.1.6
 
 ## From GitHub
 ```bash
