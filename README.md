@@ -33,8 +33,12 @@ print(list_categories())
 - `definition`
 - `category`
 
-## Install directly from GitHub
+## Install
 
+## From PyPI 
+pip install trichology-terms==0.1.5
+
+## From GitHub
 ```bash
 pip install git+https://github.com/OpheliaArrindell/Trichology_Glossary_Terms.git
 
