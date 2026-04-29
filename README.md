@@ -3,7 +3,7 @@
 A glossary dataset of trichological terms.
 
 
-## Datasets (located in src/trichology_terms/data)
+## Datasets
 
 - `trichology_terms.csv`
 - `trichology_terms.json`
