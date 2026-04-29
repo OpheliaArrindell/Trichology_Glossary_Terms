@@ -5,8 +5,8 @@ A glossary dataset of trichological terms.
 
 ## Datasets (located in src/trichology_terms/data)
 
-- `data/trichology_terms.csv`
-- `data/trichology_terms.json`
+- `trichology_terms.csv`
+- `trichology_terms.json`
 
 Rows: **412**
 
